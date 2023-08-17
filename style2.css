@@ -1,0 +1,54 @@
+.navbar{
+    position: absolute;
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+}
+.formulaire{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
+
+.nav-links ul{
+    display: flex;
+}
+.navbar .nav-links ul li a {
+    margin: 0 25px;
+}
+*{
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: "Roboto", sans-serif ;
+}
+.gg{
+    width: 1500px;
+}
+body{
+    background: linear-gradient(#414d0b, #727a17);
+}
+.logo_title{
+    color: black;
+}
+.nav-links ul li a{
+    color: black;
+}
+.nom_form{
+    margin-bottom: 25px;
+}
+.prenom_form{
+    margin-bottom: 50px;
+    background-color: aqua;
+}
+.age_form{
+    margin-bottom: 25px;
+}
+.num_form{
+    margin-bottom: 25px;
+}

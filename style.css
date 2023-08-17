@@ -1,0 +1,55 @@
+h1{
+    color: rgb(15, 15, 150);
+    font-family: roboto;
+    text-align: center;
+}
+p{
+    color: rgb(15, 15, 150);
+    font-family: roboto;
+    text-align: center;
+}
+footer{
+    color: rgb(15, 15, 150);
+    text-align: center;
+}
+ul{
+    color: rgb(15, 15, 150);
+    font-family: roboto;
+    text-align: left
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    }
+    li {
+        display: inline;
+      }
+a{
+    color: rgb(15, 15, 150);
+    font-family: roboto;
+    text-align: initial;
+}
+h3{
+    color: rgb(15, 15, 150);
+    font-family: roboto;
+    text-align: center;
+}
+body{
+    background-color: rgb(160, 157, 157);
+    font-family: 'Poppins';
+}
+header{
+    height: 80px;
+
+}
+nav ul li {
+    list-style-type: none;
+}
+.navbar{
+    padding-left: 10px;
+    justify-content: space-between;
+    .navbar ul li {
+        margin: 0 25px;
+    }
+}
